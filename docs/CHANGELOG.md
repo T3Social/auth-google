@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.1.1 (Unreleased)
--------------------------
+1.1.1 (August 1, 2026)
+----------------------
 - Fix: Update module resources path
 - Fix #19: Use bootstrap class to build button and link
 
